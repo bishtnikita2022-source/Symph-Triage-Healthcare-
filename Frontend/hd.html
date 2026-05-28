@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SympTriage</title>
+
+    <link rel="stylesheet" href="hd.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🩺 SympTriage</h1>
+    <p class="subtitle">
+        Smart Healthcare Decision Support
+    </p>
+
+    <div class="card">
+
+        <label>Symptoms</label>
+
+        <textarea
+            id="symptoms"
+            placeholder="fever,cough"
+        ></textarea>
+
+        <label>Duration (days)</label>
+
+        <input
+            type="number"
+            id="duration"
+            placeholder="Enter days"
+        >
+
+        <label>Severity</label>
+
+        <select id="severity">
+            <option value="low">Low</option>
+            <option value="medium">Medium</option>
+            <option value="high">High</option>
+        </select>
+
+        <button onclick="analyzeDisease()">
+            Analyze
+        </button>
+
+    </div>
+
+    <div id="result" class="result-card"></div>
+
+</div>
+
+<script src="hd.js"></script>
+
+</body>
+</html>

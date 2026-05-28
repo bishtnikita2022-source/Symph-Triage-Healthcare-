@@ -1,0 +1,1774 @@
+{
+    "AIDS": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Acne": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Alzheimer Disease": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Anemia": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Anxiety Disorder": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    
+    "Arthritis": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Asthenia": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Asthma": {
+        "symptoms": {
+            "cough": 3,
+            "breathlessness": 3,
+            "chest_pain": 2
+        },
+        "core_symptoms": [
+            "cough"
+        ],
+        "duration": [
+            3,
+            10
+        ],
+        "severity": "high",
+        "test": "Chest X-ray"
+    },
+    "Astigmatism": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Back Pain": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Bird Flu": {
+        "symptoms": {
+            "fever": 3,
+            "fatigue": 2,
+            "headache": 2,
+            "body_pain": 2
+        },
+        "core_symptoms": [
+            "fever"
+        ],
+        "duration": [
+            2,
+            7
+        ],
+        "severity": "high",
+        "test": "CBC"
+    },
+    "Brain Tumor": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Breast Cancer": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Bronchial Asthma": {
+        "symptoms": {
+            "cough": 3,
+            "breathlessness": 3,
+            "chest_pain": 2
+        },
+        "core_symptoms": [
+            "cough"
+        ],
+        "duration": [
+            3,
+            10
+        ],
+        "severity": "high",
+        "test": "Chest X-ray"
+    },
+    "Bronchitis": {
+        "symptoms": {
+            "cough": 3,
+            "breathlessness": 3,
+            "chest_pain": 2
+        },
+        "core_symptoms": [
+            "cough"
+        ],
+        "duration": [
+            3,
+            10
+        ],
+        "severity": "high",
+        "test": "Chest X-ray"
+    },
+    "COVID-19": {
+        "symptoms": {
+            "fever": 3,
+            "fatigue": 2,
+            "headache": 2,
+            "body_pain": 2
+        },
+        "core_symptoms": [
+            "fever"
+        ],
+        "duration": [
+            2,
+            7
+        ],
+        "severity": "high",
+        "test": "CBC"
+    },
+    "Cataract": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    
+    "Chikungunya": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    
+    "Common Cold": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    
+    "Dengue": {
+        "symptoms": {
+            "fever": 3,
+            "fatigue": 2,
+            "headache": 2,
+            "body_pain": 2
+        },
+        "core_symptoms": [
+            "fever"
+        ],
+        "duration": [
+            2,
+            7
+        ],
+        "severity": "high",
+        "test": "CBC"
+    },
+    "Dengue Hemorrhagic Fever": {
+        "symptoms": {
+            "fever": 3,
+            "fatigue": 2,
+            "headache": 2,
+            "body_pain": 2
+        },
+        "core_symptoms": [
+            "fever"
+        ],
+        "duration": [
+            2,
+            7
+        ],
+        "severity": "high",
+        "test": "CBC"
+    },
+    
+    "Diabetes": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Diarrhea": {
+        "symptoms": {
+            "nausea": 3,
+            "vomiting": 3,
+            "abdominal_pain": 2
+        },
+        "core_symptoms": [
+            "vomiting"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "medium",
+        "test": "Stool Test"
+    },
+    "Diphtheria": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Dysentery": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    
+    "Eczema": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Endometriosis": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Epilepsy": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Eye Flu": {
+        "symptoms": {
+            "fever": 3,
+            "fatigue": 2,
+            "headache": 2,
+            "body_pain": 2
+        },
+        "core_symptoms": [
+            "fever"
+        ],
+        "duration": [
+            2,
+            7
+        ],
+        "severity": "high",
+        "test": "CBC"
+    },
+    "Fibromyalgia": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Food Poisoning": {
+        "symptoms": {
+            "nausea": 3,
+            "vomiting": 3,
+            "abdominal_pain": 2
+        },
+        "core_symptoms": [
+            "vomiting"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "medium",
+        "test": "Stool Test"
+    },
+    "Fracture": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Fungal Infection": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Gallstones": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Gastritis": {
+        "symptoms": {
+            "nausea": 3,
+            "vomiting": 3,
+            "abdominal_pain": 2
+        },
+        "core_symptoms": [
+            "vomiting"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "medium",
+        "test": "Stool Test"
+    },
+    "Glaucoma": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Gout": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "HIV": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Heart Disease": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Heat Stroke": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Hepatitis": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Herpes": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "High Blood Pressure": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "High Cholesterol": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Hypertension": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Influenza": {
+        "symptoms": {
+            "fever": 3,
+            "fatigue": 2,
+            "headache": 2,
+            "body_pain": 2
+        },
+        "core_symptoms": [
+            "fever"
+        ],
+        "duration": [
+            2,
+            7
+        ],
+        "severity": "high",
+        "test": "CBC"
+    },
+    "Insomnia": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Jaundice": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    
+    "Laryngitis": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Leukemia": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Liver Disease": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Low Blood Pressure": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Lung Cancer": {
+        "symptoms": {
+            "cough": 3,
+            "breathlessness": 3,
+            "chest_pain": 2
+        },
+        "core_symptoms": [
+            "cough"
+        ],
+        "duration": [
+            3,
+            10
+        ],
+        "severity": "high",
+        "test": "Chest X-ray"
+    },
+    "Malaria": {
+        "symptoms": {
+            "fever": 3,
+            "fatigue": 2,
+            "headache": 2,
+            "body_pain": 2
+        },
+        "core_symptoms": [
+            "fever"
+        ],
+        "duration": [
+            2,
+            7
+        ],
+        "severity": "high",
+        "test": "CBC"
+    },
+    "Measles": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+   
+    "Motion Sickness": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Mumps": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Norovirus": {
+        "symptoms": {
+            "fever": 3,
+            "fatigue": 2,
+            "headache": 2,
+            "body_pain": 2
+        },
+        "core_symptoms": [
+            "fever"
+        ],
+        "duration": [
+            2,
+            7
+        ],
+        "severity": "high",
+        "test": "CBC"
+    },
+    "Obesity": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Oral Cancer": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Osteoarthritis": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Osteoporosis": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "PCOS": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Pancreatitis": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Parkinson Disease": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Pharyngitis": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Piles": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Pneumonia": {
+        "symptoms": {
+            "cough": 3,
+            "breathlessness": 3,
+            "chest_pain": 2
+        },
+        "core_symptoms": [
+            "cough"
+        ],
+        "duration": [
+            3,
+            10
+        ],
+        "severity": "high",
+        "test": "Chest X-ray"
+    },
+    "Polio": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Psoriasis": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Rabies": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Rheumatoid Arthritis": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Ringworm": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Rubella": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Sciatica": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Scoliosis": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Sinus Infection": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Sinusitis": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    
+    "Sleep Apnea": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Sprain": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    
+    "Sunburn": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Swine Flu": {
+        "symptoms": {
+            "fever": 3,
+            "fatigue": 2,
+            "headache": 2,
+            "body_pain": 2
+        },
+        "core_symptoms": [
+            "fever"
+        ],
+        "duration": [
+            2,
+            7
+        ],
+        "severity": "high",
+        "test": "CBC"
+    },
+    "Thyroid Disorder": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Tonsillitis": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Tuberculosis": {
+        "symptoms": {
+            "cough": 3,
+            "breathlessness": 3,
+            "chest_pain": 2
+        },
+        "core_symptoms": [
+            "cough"
+        ],
+        "duration": [
+            3,
+            10
+        ],
+        "severity": "high",
+        "test": "Chest X-ray"
+    },
+    "Typhoid": {
+        "symptoms": {
+            "fever": 3,
+            "fatigue": 2,
+            "headache": 2,
+            "body_pain": 2
+        },
+        "core_symptoms": [
+            "fever"
+        ],
+        "duration": [
+            2,
+            7
+        ],
+        "severity": "high",
+        "test": "CBC"
+    },
+    "Ulcer": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    },
+    "Urinary Infection": {
+        "symptoms": {
+            "fatigue": 2,
+            "pain": 2,
+            "weakness": 2
+        },
+        "core_symptoms": [
+            "fatigue"
+        ],
+        "duration": [
+            1,
+            5
+        ],
+        "severity": "low",
+        "test": "Blood Test"
+    }
+    ,
+"Allergy": {
+    "symptoms": {
+        "sneezing": 3,
+        "runny_nose": 3,
+        "itching": 2,
+        "rash": 2
+    },
+    "core_symptoms": [
+        "sneezing"
+    ],
+    "duration": [
+        1,
+        10
+    ],
+    "severity": "medium",
+    "test": "Allergy Test"
+},
+
+"Anxiety": {
+    "symptoms": {
+        "restlessness": 3,
+        "fatigue": 2,
+        "rapid_heartbeat": 3,
+        "sweating": 2
+    },
+    "core_symptoms": [
+        "restlessness"
+    ],
+    "duration": [
+        2,
+        30
+    ],
+    "severity": "medium",
+    "test": "Psychological Evaluation"
+},
+
+"Appendicitis": {
+    "symptoms": {
+        "abdominal_pain": 3,
+        "fever": 2,
+        "nausea": 2,
+        "vomiting": 2
+    },
+    "core_symptoms": [
+        "abdominal_pain"
+    ],
+    "duration": [
+        1,
+        4
+    ],
+    "severity": "high",
+    "test": "CT Scan"
+},
+
+"Chickenpox": {
+    "symptoms": {
+        "rash": 3,
+        "fever": 2,
+        "fatigue": 2,
+        "itching": 3
+    },
+    "core_symptoms": [
+        "rash"
+    ],
+    "duration": [
+        5,
+        14
+    ],
+    "severity": "medium",
+    "test": "Physical Examination"
+},
+
+"Cholera": {
+    "symptoms": {
+        "diarrhea": 3,
+        "dehydration": 3,
+        "vomiting": 2,
+        "weakness": 2
+    },
+    "core_symptoms": [
+        "diarrhea"
+    ],
+    "duration": [
+        1,
+        5
+    ],
+    "severity": "high",
+    "test": "Stool Culture"
+},
+
+"Conjunctivitis": {
+    "symptoms": {
+        "red_eyes": 3,
+        "itching": 2,
+        "watery_eyes": 3,
+        "burning_eyes": 2
+    },
+    "core_symptoms": [
+        "red_eyes"
+    ],
+    "duration": [
+        2,
+        7
+    ],
+    "severity": "low",
+    "test": "Eye Examination"
+},
+
+"Constipation": {
+    "symptoms": {
+        "abdominal_pain": 2,
+        "bloating": 3,
+        "hard_stool": 3,
+        "nausea": 1
+    },
+    "core_symptoms": [
+        "hard_stool"
+    ],
+    "duration": [
+        2,
+        10
+    ],
+    "severity": "medium",
+    "test": "Physical Examination"
+},
+
+"Dehydration": {
+    "symptoms": {
+        "dry_mouth": 3,
+        "weakness": 2,
+        "dizziness": 2,
+        "fatigue": 2
+    },
+    "core_symptoms": [
+        "dry_mouth"
+    ],
+    "duration": [
+        1,
+        5
+    ],
+    "severity": "medium",
+    "test": "Blood Test"
+},
+
+"Depression": {
+    "symptoms": {
+        "sadness": 3,
+        "fatigue": 2,
+        "insomnia": 2,
+        "loss_of_interest": 3
+    },
+    "core_symptoms": [
+        "sadness"
+    ],
+    "duration": [
+        7,
+        30
+    ],
+    "severity": "medium",
+    "test": "Psychological Evaluation"
+},
+
+"Ear Infection": {
+    "symptoms": {
+        "ear_pain": 3,
+        "fever": 2,
+        "hearing_loss": 2,
+        "headache": 1
+    },
+    "core_symptoms": [
+        "ear_pain"
+    ],
+    "duration": [
+        2,
+        7
+    ],
+    "severity": "medium",
+    "test": "Ear Examination"
+},
+
+"Food Allergy": {
+    "symptoms": {
+        "swelling": 3,
+        "itching": 2,
+        "vomiting": 2,
+        "rash": 2
+    },
+    "core_symptoms": [
+        "swelling"
+    ],
+    "duration": [
+        1,
+        3
+    ],
+    "severity": "high",
+    "test": "Allergy Test"
+},
+
+"Heart Attack": {
+    "symptoms": {
+        "chest_pain": 3,
+        "breathlessness": 3,
+        "sweating": 2,
+        "nausea": 2
+    },
+    "core_symptoms": [
+        "chest_pain"
+    ],
+    "duration": [
+        1,
+        2
+    ],
+    "severity": "high",
+    "test": "ECG"
+},
+
+"Kidney Stone": {
+    "symptoms": {
+        "back_pain": 3,
+        "abdominal_pain": 2,
+        "vomiting": 2,
+        "blood_in_urine": 3
+    },
+    "core_symptoms": [
+        "back_pain"
+    ],
+    "duration": [
+        2,
+        10
+    ],
+    "severity": "high",
+    "test": "Ultrasound"
+},
+
+"Migraine": {
+    "symptoms": {
+        "headache": 3,
+        "nausea": 2,
+        "vomiting": 2,
+        "sensitivity_to_light": 3
+    },
+    "core_symptoms": [
+        "headache"
+    ],
+    "duration": [
+        1,
+        5
+    ],
+    "severity": "medium",
+    "test": "Neurological Exam"
+},
+
+"Skin Allergy": {
+    "symptoms": {
+        "rash": 3,
+        "itching": 3,
+        "redness": 2,
+        "swelling": 2
+    },
+    "core_symptoms": [
+        "rash"
+    ],
+    "duration": [
+        1,
+        7
+    ],
+    "severity": "medium",
+    "test": "Allergy Test"
+},
+
+"Stroke": {
+    "symptoms": {
+        "paralysis": 3,
+        "speech_problem": 3,
+        "dizziness": 2,
+        "headache": 2
+    },
+    "core_symptoms": [
+        "paralysis"
+    ],
+    "duration": [
+        1,
+        2
+    ],
+    "severity": "high",
+    "test": "MRI Scan"
+},
+
+"Typhus": {
+    "symptoms": {
+        "fever": 3,
+        "rash": 2,
+        "headache": 2,
+        "body_pain": 2
+    },
+    "core_symptoms": [
+        "fever"
+    ],
+    "duration": [
+        3,
+        10
+    ],
+    "severity": "high",
+    "test": "Blood Test"
+},
+
+"Urinary Tract Infection": {
+    "symptoms": {
+        "burning_urination": 3,
+        "fever": 2,
+        "abdominal_pain": 2,
+        "frequent_urination": 3
+    },
+    "core_symptoms": [
+        "burning_urination"
+    ],
+    "duration": [
+        2,
+        7
+    ],
+    "severity": "medium",
+    "test": "Urine Test"
+},
+
+"Vitamin D Deficiency": {
+    "symptoms": {
+        "fatigue": 2,
+        "bone_pain": 3,
+        "weakness": 2,
+        "muscle_pain": 2
+    },
+    "core_symptoms": [
+        "bone_pain"
+    ],
+    "duration": [
+        10,
+        30
+    ],
+    "severity": "low",
+    "test": "Vitamin D Test"
+}
+    
+    
+}
